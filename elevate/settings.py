@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'elevate.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
-
+# test
 load_dotenv()
 
 DATABASES = {
